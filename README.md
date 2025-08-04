@@ -1,5 +1,6 @@
-## Hi there 👋
+### ✨ Grey_0x1 ✨
 
+Grey is the sumbol of greyhat and 0x1 means 1 in hex which is the symbol of sun .
 <!--
 **greyvortex/greyvortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
