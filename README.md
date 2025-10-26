@@ -32,6 +32,7 @@ I traverse:
 
 `C\C++`
 `Rust`
+`Java`
 `Python`
 `React`
 `Node.js`
