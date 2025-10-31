@@ -1,3 +1,7 @@
+>"Study Hard What Interests you the most, In most undisciplined, irreverent and original manner pissible"
+>-Richard P. Feyman
+>-
+
 <h1 align="center">🌞 Grey_0x1 🌑</h1>
 <p align="center">
   <strong>✨ aka GreyVortex_dev | Founder of GreyWaveStudio | Founder of The Phantom Project</strong><br>
