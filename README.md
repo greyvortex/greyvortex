@@ -1,11 +1,11 @@
->"Study Hard What Interests you the most, In most undisciplined, irreverent and original manner pissible"
+>"Study Hard What Interests you the most, In most undisciplined, irreverent and original manner possible"
 >-Richard P. Feyman
 >-
 
 <h1 align="center">🌞 Grey_0x1 🌑</h1>
 <p align="center">
-  <strong>✨ aka GreyVortex_dev | Founder of GreyWaveStudio | Founder of The Phantom Project</strong><br>
-  <em>Greyhat dreamer. Self-ruled. Builder of systems from silicon to stars.</em>
+<!---  <strong>✨ aka GreyVortex_dev | Founder of GreyWaveStudio | Founder of The Phantom Project</strong><br> --->
+  <em>Greyhat Hobbyist</em>
 </p>
 
 ---
@@ -45,12 +45,12 @@ I traverse:
 `SQL`
 
 ---
-
+<!---
 ### 🌱 Always Evolving
 
 Currently, I'm deep-diving into Web3, chasing performance, elegance, and autonomy.
 
-<!---
+
 GreyWaveStudios/GreyWaveStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
