@@ -45,6 +45,8 @@ I traverse:
 `SQL`
 
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4233013" style='border:none;'></iframe>
+
 <!---
 ### 🌱 Always Evolving
 
